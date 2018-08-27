@@ -1,0 +1,8 @@
+**/.dubbo/**
+**/.idea/**
+**.iml
+**/target/**
+**/classes/**
+**/.bin/**
+.DS_Store
+*/.DS_Store
